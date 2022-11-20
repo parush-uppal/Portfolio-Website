@@ -55,20 +55,20 @@ function Education() {
           </h4>
           <p>CGPA-9.88/10</p>
         </VerticalTimelineElement>
-        {/* <VerticalTimelineElement
+        <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date=""
+          date="Nov 2022"
           iconStyle={{ background: "#e9d35b", color: "#fff" }}
-          // icon={<WorkIcon />}
+           icon={<WorkIcon />}
         >
            <h3 className="vertical-timeline-element-title">
-            Chitkara University
+            Camp Yellow
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
-            Computer Science And Engineering
+            Software Devlopment Intern
           </h4>
-          <p>CGPA-9.8/10</p> 
-        </VerticalTimelineElement> */}
+          <p>Designed the frontend part from scratch for their International Mathematics Championship</p> 
+        </VerticalTimelineElement>
 
       </VerticalTimeline>
     </div>
