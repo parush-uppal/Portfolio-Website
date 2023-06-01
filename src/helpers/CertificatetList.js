@@ -5,7 +5,7 @@ import Proj3 from "../assets/certificate3.jpg";
 
 
 
-export const CertificateList = [
+export const CertificatetList = [
   {
     name: "Advanced Frontend Web Devlopment",
      image: Proj1,

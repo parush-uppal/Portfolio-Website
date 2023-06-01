@@ -11,7 +11,7 @@ function Home() {
        <img src="Text2 (1).jpeg" class="img1" alt=''></img> 
         <h2> Hi, My Name is Parush Uppal</h2>
         <div className="prompt">
-          <p>A Frontend Web  developer with a passion for learning and inovating </p>
+          <p>A Full Stack developer with a passion for learning and inovating </p>
           <a href="https://linkedin.com/in/parush-uppal" target="blank"><LinkedInIcon /></a>
           
           <a href="https://github.com/parush-uppal" target="_blank"><GithubIcon /></a>

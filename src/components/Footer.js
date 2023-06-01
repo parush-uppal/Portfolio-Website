@@ -11,7 +11,7 @@ function Footer() {
           
           <a href="https://github.com/parush-uppal" target="_blank"><GithubIcon /></a>
       </div>
-      <p> &copy; 2022 parush-uppal.netlify.app</p>
+      <p> &copy; 2023 parush-uppal.netlify.app</p>
     </div>
   );
 }

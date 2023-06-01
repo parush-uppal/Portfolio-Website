@@ -67,7 +67,21 @@ function Education() {
           <h4 className="vertical-timeline-element-subtitle">
             Software Devlopment Intern
           </h4>
-          <p>Designed the frontend part from scratch for their International Mathematics Championship</p> 
+          <p>Designed the frontend part from scratch using react for their International Mathematics Championship</p> 
+        </VerticalTimelineElement>
+        <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          date="Jan 2023-May 2023"
+          iconStyle={{ background: "#e9d35b", color: "#fff" }}
+           icon={<WorkIcon />}
+        >
+           <h3 className="vertical-timeline-element-title">
+            Aimerse Technology Private Limited
+          </h3>
+          <h4 className="vertical-timeline-element-subtitle">
+            Web Devlopment Intern
+          </h4>
+          <p>Worked as a Frontend Intern Devlopling frontend for their clients using React Js</p> 
         </VerticalTimelineElement>
 
       </VerticalTimeline>
